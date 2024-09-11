@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-looking for a PHD
+NULL
